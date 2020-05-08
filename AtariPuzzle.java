@@ -1,4 +1,4 @@
-/*Fatma Sena Ekiz
+/*neptunel
 /08/05/2020*/
 
 public class AtariPuzzle {
